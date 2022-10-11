@@ -1,5 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .App-logo {
@@ -35,4 +44,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+a {
+  text-decoration: none;
 }
