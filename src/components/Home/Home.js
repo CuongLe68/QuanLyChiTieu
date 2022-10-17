@@ -34,7 +34,6 @@ function Home() {
             <div className={cx("form-col-title")}>Mật khẩu</div>
             <input className={cx("form-col-input")} type="password" />
           </div>
-          <div>Quên mật khẩu nè</div>
         </div>
         <button className={cx("form-btn form-btn-login")}>Đăng nhập</button>
         <button
