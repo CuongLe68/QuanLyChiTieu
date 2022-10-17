@@ -23,7 +23,7 @@ function Home() {
   return (
     <>
       <div className={cx("error")}>
-        Chỉ sử dụng cho điện thoại có kích thước nhỏ hơn 414px
+        Chỉ sử dụng cho điện thoại có kích thước chiều rộng nhỏ hơn 415px
       </div>
       <div className={cx("wrapper")}>
         {/* form login */}
